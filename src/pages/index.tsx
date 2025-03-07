@@ -25,6 +25,7 @@ export default function Home() {
       <div
         className={`${styles.page} ${geistSans.variable} ${geistMono.variable}`}
       >
+        <h1>PAGE ROUTER TEST</h1>
         <main className={styles.main}>
           <Image
             className={styles.logo}
